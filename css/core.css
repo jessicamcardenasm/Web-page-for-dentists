@@ -1,0 +1,17 @@
+html{
+	min-height: 100%;
+}
+body{
+	background: url(../img/tertulia.jpg) no-repeat scroll right center / cover transparent;
+	height: 100%;
+	position: relative;
+}
+.logo{
+	float: left;
+}
+.jumbotron{min-height: 370px;}
+.aplicaciones{background: #FFF;border-radius: 10px;}
+.perfiles{background: #FFF;border-radius: 10px;}
+.usuarios{background: #FFF;border-radius: 10px;}
+.asignacion-perfil{background: #FFF;border-radius: 10px;}
+.top5p{margin-top: 5%;}
